@@ -5,7 +5,9 @@ Wethinkcode introduction to cloud project.
 #Sources
 
 https://cloud.google.com/iam/docs/creating-managing-service-accounts
+
 https://cloud.google.com/compute/docs/ip-addresses/reserve-static-external-ip-address#api
+
 https://cloud.google.com/storage/docs/creating-buckets
 https://ithemes.com/what-is-the-htaccess-file/
 https://cloud.google.com/sql/docs/mysql/create-instance
